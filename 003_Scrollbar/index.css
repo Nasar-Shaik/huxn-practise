@@ -1,0 +1,8 @@
+::-webkit-scrollbar {
+  background-color: antiquewhite;
+  width: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(#21d4fd, #b721ff);
+}
